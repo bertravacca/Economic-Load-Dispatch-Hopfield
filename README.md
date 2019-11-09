@@ -7,3 +7,5 @@ We apply a classic discretized Hopfield Neural Network to solve an economic load
 
 - The file 'hopfield_geometric_viewpoint_application_geodesic_distance.m' plots the geometric behavior of Hopfield for one single simulation
 
+This code is used in the application section of the article 'Hopfield Neural Networks: a geometric viewpoint' by A.Halder et al.
+
